@@ -1,5 +1,5 @@
-# Site-CutSpace
-[landing page](https://ilzarich.github.io/Site-CutSpace/) for apartment search.
+[# Site-CutSpace](https://ilzarich.github.io/Site-CutSpace/)
+landing page for apartment search.
 
 + In development I used HTML, SCSS, Javascript 
 + SVG sprites were involved
